@@ -1,3 +1,7 @@
 # PanicoEstaCogido.github.io
+[Visita o meu Wordpress](https://panicoestacogido.wordpress.com/) o tamén [Irochiño](https://irocho.wordpress.com/)
 
-Soy el Diego, Jaja sí
+Estudiamos:
+* HTML
+* CSS
+* Markdown
